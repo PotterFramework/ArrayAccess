@@ -1,2 +1,2 @@
 # ArrayAccess
-PHP ArrayAccess Implementation
+PHP ArrayAccess Interface
