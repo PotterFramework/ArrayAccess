@@ -1,9 +1,9 @@
 {
     "name": "potter/array-access",
-    "description": "PHP ArrayAccess Implementation",
+    "description": "PHP ArrayAccess Interface",
     "type": "library",
     "require": {
-        "php": "^8.3"
+        "php": ">=8.3"
     },
     "license": "MIT",
     "autoload": {
@@ -17,5 +17,6 @@
             "email": "j@ypotter.ca"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
